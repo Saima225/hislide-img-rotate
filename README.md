@@ -1,0 +1,1 @@
+# hislide-img-rotate
